@@ -1,0 +1,11 @@
+###gen###
+# just support string
+
+name = "sb2"
+author = "gxk"
+package = "com.guxingke.demo"
+http-port = "9527"
+
+[info]
+version = "0.0.1"
+desc = "todo"
