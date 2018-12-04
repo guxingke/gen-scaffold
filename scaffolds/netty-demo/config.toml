@@ -1,0 +1,10 @@
+###gen###
+# just support string
+
+name = "netty-demo"
+author = "gxk"
+package = "com.gxk.demo"
+
+[info]
+version = "180822.1033"
+desc = "todo"
